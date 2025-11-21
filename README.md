@@ -22,7 +22,3 @@
 - **Logs**
   - Real-time logs of the scanning process.
   - Filter logs by keyword or driver name.
-
-- **Search & Filter**
-  - Filter drivers, DMA devices, and logs in real-time.
-  - Simple text-based search boxes for all tabs.
